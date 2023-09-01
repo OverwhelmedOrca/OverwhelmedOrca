@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @OverwhelmedOrca
 -  I'm currently a student at Purdue University, West Lafayette, Indiana, US.
--  
