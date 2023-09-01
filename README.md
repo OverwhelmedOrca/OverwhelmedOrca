@@ -1,2 +1,6 @@
-- 👋 Hi, I’m @OverwhelmedOrca
+- 👋 Hi, I’m @OverwhelmedOrca; Pranav Kumar.
 -  I'm currently a student at Purdue University, West Lafayette, Indiana, US.
+-  Currently studying Data Science and Computer Science.
+-  I'm an aspiring Data Scientist.
+-  **************************************************************************HAIL PURDUE**************************************************************************
+-  ****************************************************************************IU SUCKS****************************************************************************
